@@ -2,6 +2,10 @@
 
 int main(){
     printf("name : Kate\n");
+
     printf("gender : female\n");
+
     printf("major : math");
+
+    
 }
