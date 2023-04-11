@@ -7,5 +7,5 @@ int main(){
     printf("gender : female\n");
     printf("email : email@email.com\n");
     printf("major : math\n");
-
+    printf("address : seosan\n");
 }
