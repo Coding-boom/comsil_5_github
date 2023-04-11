@@ -6,6 +6,6 @@ int main(){
     printf("gender : female\n");
 
     printf("major : math");
-
+    printf("address : Seoul");
     
 }
