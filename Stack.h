@@ -14,9 +14,6 @@ class Stack : public LinkedList<T>{
 			if(!(this->first)){
 				return false;
 			}
-			
-			// LinkedList와 달리 Stack은 current가 가리키는 곳을 삭제
-			
 			Node<T> *current=this->first;
 			element=current->data;
 			this->first=this->first->link;
